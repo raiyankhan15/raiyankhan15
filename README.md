@@ -24,6 +24,14 @@ Currently focused on learning through projects and getting better at building, d
 
 ## Work
 
+### YojanaSaarthi AI
+
+A deterministic eligibility engine that evaluates income caps, category rules, occupation targeting, and policy constraints and shows exactly why you qualify or don't.
+
+**HTML · CSS · TypeScript**
+
+[View Website →](https://v0-yojana-saarthi.vercel.app/)
+
 ### SobiaBuildTech
 
 Business website developed for a buildtech/construction-oriented company.
