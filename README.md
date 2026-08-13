@@ -6,7 +6,20 @@
 
 Bengaluru, India
 
-[LinkedIn](https://www.linkedin.com/in/raiyankhan15/) · [GitHub](https://github.com/raiyankhan15) · [Email](mailto:raiyank721@gmail.com)
+<br>
+
+<a href="https://portfolio-cyan-phi-25.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/raiyankhan15/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/raiyankhan15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:raiyank721@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -24,27 +37,37 @@ Currently focused on learning through projects and getting better at building, d
 
 ## Work
 
-### YojanaSaarthi AI
+### 📜 YojanaSaarthi
 
-A deterministic eligibility engine that evaluates income caps, category rules, occupation targeting, and policy constraints and shows exactly why you qualify or don't.
+A deterministic eligibility engine for Indian government welfare schemes that evaluates eligibility rules and explains why a user qualifies or does not.
 
-**HTML · CSS · TypeScript**
+<a href="https://v0-yojana-saarthi.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Project-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="YojanaSaarthi"/>
+</a>
 
-[View Website →](https://v0-yojana-saarthi.vercel.app/)
-
-### SobiaBuildTech
+### 🏗️ SobiaBuildTech
 
 Business website developed for a buildtech/construction-oriented company.
 
-**HTML · CSS · JavaScript**
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
 
-[View Website →](https://sobiabuildtech.vercel.app/)
+<a href="https://sobiabuildtech.vercel.app/">
+<img src="https://img.shields.io/badge/View%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="SobiaBuildTech"/>
+</a>
 
-### Alayean Overseas
+### 🌍 Alayean Overseas
 
 Responsive business website developed for an agro import & export business, with emphasis on visual presentation, product sections, responsive layouts, and customer contact.
 
-**HTML · CSS · JavaScript**
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
 
 `Deployment pending`
 
@@ -52,17 +75,27 @@ Responsive business website developed for an agro import & export business, with
 
 ## Technologies
 
-**Languages**
+### Languages
 
-`Python` `Java` `JavaScript` `HTML` `CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Languages"/>
+</p>
 
-**Tools**
+### Tools
 
-`Git` `GitHub` `VS Code` `Vercel`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools"/>
+</p>
 
-**Interests**
+### Interests
 
-`Web Development` `AI` `Machine Learning` `Databases` `Software Development`
+<p>
+<img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Databases-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Development-111827?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -86,8 +119,16 @@ Machine Learning · Computer Vision · Practical AI Applications
 
 **Open to software development and technical internship opportunities.**
 
-<br>
+<br><br>
 
-[LinkedIn](https://www.linkedin.com/in/raiyankhan15/) · [GitHub](https://github.com/raiyankhan15) · [Email](mailto:raiyank721@gmail.com)
+<a href="https://portfolio-cyan-phi-25.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/raiyankhan15/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:raiyank721@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
